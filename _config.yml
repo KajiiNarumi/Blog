@@ -94,7 +94,7 @@ defaults:
 # Site Author
 author:
   name: Kajii Narumi
-  picture:
+  picture: /Blog/images/logo.png
   email:
   twitter:
   links:
