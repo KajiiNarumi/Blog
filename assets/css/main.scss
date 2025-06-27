@@ -46,3 +46,19 @@ body.dark-mode .archive {
   display: block;
   box-shadow: none !important;
 }
+
+
+.social-share a {
+  background: none !important;
+  color: #888 !important;
+  border: none;
+  box-shadow: none;
+  padding: 0.2em 0.4em;
+  font-weight: normal;
+  text-decoration: underline dotted;
+  border-radius: 0;
+}
+.social-share a:hover {
+  color: #333 !important;
+  background: none !important;
+}
