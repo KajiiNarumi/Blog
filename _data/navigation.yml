@@ -2,6 +2,9 @@
 
 - title: Home
   url: /
+- title: Theme
+  url: "#"
+  id: theme-toggle
 # - title: Posts
 #   url: /posts/
 # - title: Categories
