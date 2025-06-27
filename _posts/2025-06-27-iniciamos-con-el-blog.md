@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "¡Iniciamos con el blog!"
-date: 2025-06-27
+author:
+  name: "I. Antoine Suárez V."
 categories: [blog]
 tags: [bienvenida, consejos, jekyll]
-author: I. Antoine Suárez V.
-excerpt: "¡Bienvenido! Este es el primer post del blog. Aquí te comparto recomendaciones y mejores prácticas para tus publicaciones."
+title: "¡Iniciamos con el blog!"
+date: 2025-06-27
 image:
   path: /images/2025-06-27-iniciamos-con-el-blog.jpg
   caption: "¡Vamos a escribir juntos!"
+excerpt: "¡Bienvenido! Este es el primer post del blog. Aquí te comparto recomendaciones y mejores prácticas para tus publicaciones."
 ---
 
 ¡Bienvenido a nuestro blog! 🎉  
