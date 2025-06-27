@@ -1,6 +1,6 @@
 ---
 layout: home
-description: "Para los que amamos la palabra escrita"
+excerpt: "Para los que amamos la palabra escrita. El diario de Kajii Narumi"
 limit: 10
 show_excerpts: true
 entries_layout: list
