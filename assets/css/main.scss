@@ -32,13 +32,13 @@ body.dark-mode .archive {
 
 .page-image {
   text-align: center;
-  margin-bottom: 1em;
+  margin-bottom: 2em;
   margin-top: 2em;                // Espacio extra arriba para separar del menú
 }
 
 .page-image img.entry-feature-image {
   width: 80% !important;          // Abarca el 50% del ancho del contenedor
-  max-width: 400px;               // (opcional) limitar tamaño máximo
+  max-width: 600px;               // (opcional) limitar tamaño máximo
   aspect-ratio: 1 / 1;            // Mantiene siempre cuadrada la imagen
   object-fit: cover;              // Recorta si la imagen es muy alargada o alta
   border-radius: 10px;
