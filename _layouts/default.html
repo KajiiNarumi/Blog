@@ -10,7 +10,7 @@
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %} {% if page.entries_layout == 'grid' %}page--wide{% endif %} {{ page.title | slugify }}">
       <!-- Botón modo claro/oscuro -->
-<button id="toggle-darkmode" style="float:right; margin:0.5em 1em;">🌙/☀️</button>
+<button id="toggle-darkmode" style="float:right; margin:0.5em 1em;">🔘</button>
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     const btn = document.getElementById('toggle-darkmode');
