@@ -19,8 +19,8 @@ skin: "/assets/css/skins/default.css"
 locale: es-MX
 title: "El diario de Kajii Narumi"
 description: "Para los que amamos la palabra escrita"
-baseurl: # the subpath of your site, e.g. "/blog"
-url: "https://kajiinarumi.github.io/Blog/"
+url: "https://kajiinarumi.github.io"
+baseurl: "/Blog"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
