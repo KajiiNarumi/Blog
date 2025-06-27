@@ -29,3 +29,18 @@ body.dark-mode .archive {
   color: #f6f6f6 !important;
 }
 // Personaliza aquí según tus necesidades.
+
+// Reducir tamaño de imagen destacada en posts
+.page-image,
+.entry-image,
+.featured-image,
+.post-header-image {
+  max-width: 350px !important; // O el tamaño que prefieras
+  max-height: 200px !important;
+  width: auto !important;
+  height: auto !important;
+  margin: 2em auto 1em auto;
+  display: block !important;
+  border-radius: 10px; // Opcional, para que sea más discreta
+  box-shadow: none;   // Si no quieres sombra
+}
