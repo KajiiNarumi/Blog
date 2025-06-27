@@ -21,7 +21,8 @@ title: "El diario de Kajii Narumi"
 description: "Para los que amamos la palabra escrita"
 url: "https://kajiinarumi.github.io"
 baseurl: "/Blog"
-logo: # path of site logo, e.g. "/images/logo.png"
+logo: "/images/logo.png"
+image: "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
