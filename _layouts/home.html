@@ -9,6 +9,7 @@ layout: page
     {%- comment -%}
       Add paginator.posts loop if jekyll-paginate plugin is enabled
       and page.paginate == true
+  {% include entry-featured-image.html %}
     {%- endcomment -%}
     {% include posts-paginated.html %}
   {%- else -%}
