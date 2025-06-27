@@ -1,6 +1,6 @@
 ---
 layout: home
-description: "Para los que amamos la palabra escrita. El diario de Kajii"
+description: "Blog de tutoriales y recursos prácticos que acompañan al canal de YouTube de Kajii Narumi. Aprende mejor con guías escritas."
 limit: 10
 show_excerpts: true
 entries_layout: list
