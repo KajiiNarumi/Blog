@@ -15,12 +15,7 @@
     {% include navigation.html %}
     {% include masthead.html %}
 
-    {{ content }}
-
-    {% include footer.html %}
-    {% include scripts.html %}
-
-      <button id="toggle-darkmode" style="float:right; margin:0.5em 1em;">🔘</button>
+            <button id="toggle-darkmode" style="float:right; margin:0.5em 1em;">🔘</button>
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     const btn = document.getElementById('toggle-darkmode');
@@ -34,6 +29,15 @@
     }
   });
 </script>
+
+
+      
+    {{ content }}
+
+    {% include footer.html %}
+    {% include scripts.html %}
+
+
   </body>
 
 </html>
