@@ -35,7 +35,7 @@ body.dark-mode .archive {
   margin-bottom: 1em;
 }
 .page-image img.entry-feature-image {
-  width: 50% !important;          // Abarca el 50% del ancho del contenedor
+  width: 60% !important;          // Abarca el 50% del ancho del contenedor
   max-width: 400px;               // (opcional) limitar tamaño máximo
   aspect-ratio: 1 / 1;            // Mantiene siempre cuadrada la imagen
   object-fit: cover;              // Recorta si la imagen es muy alargada o alta
