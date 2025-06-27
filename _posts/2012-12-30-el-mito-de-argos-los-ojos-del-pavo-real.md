@@ -25,7 +25,7 @@ Entre las tareas que se le encomendaron, la que nos interesa es la de vigilar a 
 
 De algún modo, Hera se enteró de lo sucedido y, para proteger a la muchacha de la ira de su esposa, Zeus transformó a Ío en una hermosa vaca blanca. Sin embargo, Hera, sospechando, pidió a Zeus que le entregara la becerra como un regalo. Zeus, para no levantar sospechas, accedió.
 
-![Hermes, Io y Argos.](/images/2012-12-30-el-mito-de-argos-los-ojos-del-pavo-real2.jpg)
+![Hermes, Io y Argos.](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Hermes_Io_Argus.jpg/960px-Hermes_Io_Argus.jpg?20150722144805)
 
 Hera entonces confió la custodia de la novilla a Argos, cuya vigilancia era tan perfecta que Zeus no podía acercarse a Ío. Esto enfureció tanto a Zeus que ordenó a Hermes acabar con la vida del perfecto centinela.
 
