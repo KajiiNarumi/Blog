@@ -9,6 +9,7 @@ date: 2025-06-27
 image:
   path: /images/2025-06-27-iniciamos-con-el-blog.jpg
   caption: "¡Vamos a escribir juntos!"
+  class: portada-discreta
 excerpt: "¡Bienvenido! Este es el primer post del blog. Aquí te comparto recomendaciones y mejores prácticas para tus publicaciones."
 ---
 
