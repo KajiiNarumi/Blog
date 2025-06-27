@@ -30,3 +30,14 @@ body.dark-mode .archive {
 }
 // Personaliza aquí según tus necesidades.
 
+.page-image img,
+.page-image {
+  max-width: 320px !important;
+  max-height: 180px !important;
+  width: auto !important;
+  height: auto !important;
+  margin: 2em auto 1em auto !important;
+  display: block !important;
+  border-radius: 10px;
+  box-shadow: none;
+}
