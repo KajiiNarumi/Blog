@@ -6,3 +6,26 @@ sitemap: false
 @charset "utf-8";
 
 @import "so-simple";
+
+// --- Dark mode styles ---
+body.dark-mode {
+  background: #181818 !important;
+  color: #f6f6f6 !important;
+}
+
+body.dark-mode a { color: #77aaff !important; }
+body.dark-mode .site-header,
+body.dark-mode .site-footer {
+  background: #222 !important;
+}
+body.dark-mode .sidebar {
+  background: #232323 !important;
+}
+body.dark-mode .post,
+body.dark-mode .page,
+body.dark-mode .entry,
+body.dark-mode .archive {
+  background: #222 !important;
+  color: #f6f6f6 !important;
+}
+// Personaliza aquí según tus necesidades.
