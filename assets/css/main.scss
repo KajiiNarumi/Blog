@@ -13,7 +13,7 @@ body.dark-mode {
   color: #f6f6f6 !important;
 }
 
-body.dark-mode a { color: #77aaff !important; }
+body.dark-mode a { color: #fff !important; }
 body.dark-mode .site-header,
 body.dark-mode .site-footer {
   background: #222 !important;
@@ -35,7 +35,7 @@ body.dark-mode .archive {
   margin-bottom: 1em;
 }
 .page-image img.entry-feature-image {
-  pading-top: 10px;
+  pading-top: 100px;
   width: 60% !important;          // Abarca el 50% del ancho del contenedor
   max-width: 400px;               // (opcional) limitar tamaño máximo
   aspect-ratio: 1 / 1;            // Mantiene siempre cuadrada la imagen
