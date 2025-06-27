@@ -4,11 +4,10 @@ title: "¡Iniciamos con el blog!"
 date: 2025-06-27
 categories: [blog]
 tags: [bienvenida, consejos, jekyll]
-author:
-  name: "Tu Nombre"
+author: I. Antoine Suárez V.
 excerpt: "¡Bienvenido! Este es el primer post del blog. Aquí te comparto recomendaciones y mejores prácticas para tus publicaciones."
 image:
-  path: /images/portada-blog.jpg
+  path: /images/2025-06-27-iniciamos-con-el-blog.jpg
   caption: "¡Vamos a escribir juntos!"
 ---
 
