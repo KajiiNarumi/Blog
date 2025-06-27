@@ -21,4 +21,25 @@
       <p>&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/mmistakes/so-simple-theme" rel="nofollow">So Simple</a>.</p>
     {% endif %}
   </div>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  // Busca el enlace del menú que diga "Theme"
+  var links = document.querySelectorAll('nav a, .nav a, .site-nav a, .navigation a');
+  links.forEach(function(link) {
+    if(link.textContent.trim() === "Theme") {
+      link.style.cursor = "pointer"; // Cambia el cursor
+      link.addEventListener("click", function(e) {
+        e.preventDefault();
+        document.body.classList.toggle('dark-mode');
+        localStorage.setItem('darkmode', document.body.classList.contains('dark-mode'));
+      });
+    }
+  });
+  // Mantener preferencia
+  if(localStorage.getItem('darkmode') === 'true') {
+    document.body.classList.add('dark-mode');
+  }
+});
+</script>
+  
 </footer>
