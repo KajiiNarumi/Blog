@@ -19,6 +19,7 @@ skin: "/assets/css/skins/default.css"
 locale: es-MX
 title: "El diario de Kajii Narumi"
 description: "Para los que amamos la palabra escrita"
+excerpt: "Para los que amamos la palabra escrita"
 url: "https://kajiinarumi.github.io"
 baseurl: "/Blog"
 logo: "/images/logo.png"
