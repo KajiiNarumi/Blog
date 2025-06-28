@@ -57,7 +57,7 @@ En resumen, el Viking Fest es una celebración que trasciende el tiempo y el esp
 
 Para conocer más sobre las fechas y los precios en preventa visita el siguiente enlace: [https://www.mundomedievalmexico.mx/vikingfest](https://www.mundomedievalmexico.mx/vikingfest)
 
-{% include youtube-responsive.html id="dOLrh_4IJ5Y" %}
+{% include youtube.html id="dOLrh_4IJ5Y" %}
 
 [Video del **Viking Fest en la Marquesa 2019**](https://youtu.be/dOLrh_4IJ5Y)
 
