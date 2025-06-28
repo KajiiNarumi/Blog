@@ -7,7 +7,7 @@ tags: [wicca, grimorio, magia, Libro de las Sombras, introspección]
 title: "Libro de las Sombras o Grimorio"
 date: 2024-07-20
 image:
-  path: /images/2024-07-20-Libro-de-las-Sombras-o-Grimorio.jpg
+  path: /images/2024-07-20-libro-de-las-sombras-o-grimorio.jpg
   caption: "Foto de Jan Kahánek en Unsplash"
 image_alt: "Libro antiguo abierto con escritura a mano y símbolos mágicos"
 excerpt: "Explora las diferencias y similitudes entre el grimorio y el Libro de las Sombras, y cómo puedes comenzar a crear el tuyo, ya sea físico o digital."
