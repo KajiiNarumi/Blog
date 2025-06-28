@@ -24,6 +24,7 @@ url: "https://kajiinarumi.github.io"
 baseurl: "/Blog"
 logo: "/images/logo.png"
 image: "/Blog/images/logo.png"
+icon: "Blog/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
