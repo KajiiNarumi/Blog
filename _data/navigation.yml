@@ -12,10 +12,6 @@
 #   url: /recipes/
 - title: Search
   url: /search/
-- title: YouTube
-  url: https://www.youtube.com/@KajiiNarumi
-- title: Web
-  url: https://kajiinarumi.com/
 - title: Theme
   url: "#"
   id: theme-toggle
