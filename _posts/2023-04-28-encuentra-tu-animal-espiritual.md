@@ -31,6 +31,8 @@ Descubrir cuál es tu animal espiritual puede ser una experiencia fascinante y r
 
 **Consulta con un experto**: Si sientes que necesitas una guía adicional, puedes buscar la ayuda de un chamán, terapeuta espiritual o experto en animales espirituales para obtener más claridad.
 
+{% include youtube.html id="zO698EClJhc" %}
+
 [**Para saber más puedes mirar el siguiente video**](https://youtu.be/zO698EClJhc)
 
 Para saber más sobre animales espirituales y sus diferencias mira este video.
