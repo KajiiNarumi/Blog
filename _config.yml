@@ -109,12 +109,22 @@ author:
 
 # Footer Links
 footer_links:
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+
   - title: YouTube
     url: https://www.youtube.com/@KajiiNarumi
     icon: fab fa-youtube
+  - title: Instagram
+    url: https://www.instagram.com/kajiinarumi/
+    icon: fab fa-instagram
+  - title: Steam
+    url: https://store.steampowered.com/curator/42511696-Kajii-Narumi/
+    icon: fab fa-steam
   - title: Sitio Web
     url: https://kajiinarumi.com/
     icon: fas fa-globe
+  - title: Email
+    url: mailto:contacto@kajiinarumi.com
+    icon: fas fa-envelope
+  - title: Feed
+    url: atom.xml
+    icon: fas fa-rss-square
