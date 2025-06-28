@@ -112,3 +112,9 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+  - title: YouTube
+    url: https://www.youtube.com/@KajiiNarumi
+    icon: fab fa-youtube
+  - title: Sitio Web
+    url: https://kajiinarumi.com/
+    icon: fas fa-globe
