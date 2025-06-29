@@ -12,6 +12,6 @@
 #   url: /tags/
 - title: Buscar
   url: /search/
-- title: Tema
+- title: Theme
   url: "#"
   id: theme-toggle
