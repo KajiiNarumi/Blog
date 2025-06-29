@@ -5,63 +5,12 @@ permalink: /asuntos/
 robots: noindex, nofollow
 ---
 
-<h2 style="margin-bottom:2em;">Microblog del proyecto</h2>
-<style>
-.asunto {
-  margin-bottom: 2.5em;
-  padding-bottom: 2.5em;
-  border-bottom: 1px solid #ececec;
-}
-.asunto:last-child {
-  border-bottom: none;
-}
-.asunto-titulo {
-  margin: 0.2em 0 0.5em 0;
-  font-size: 1.5em;
-  color: #222;
-  font-weight: bold;
-}
-.asunto-meta {
-  color: #888;
-  font-size: 0.95em;
-  margin-bottom: 0.6em;
-}
-.asunto-etiquetas {
-  margin-bottom: 0.5em;
-}
-.asunto-etiqueta {
-  display: inline-block;
-  font-size: 0.85em;
-  margin-right: 7px;
-  background: #f5f5f5;
-  color: #666;
-  border-radius: 3px;
-  padding: 2px 9px;
-  font-weight: 500;
-}
-.asunto-estado-cerrado { color: #d73a4a; font-weight: bold;}
-.asunto-estado-abierto { color: #28a745; font-weight: bold;}
-.asunto-comentarios {margin-top:1em; font-size:0.97em;color:#444;}
-.asunto-user {
-  display: inline-block;
-  vertical-align: middle;
-  margin-right: 0.6em;
-  font-size: 0.97em;
-}
-.asunto-user img {
-  width: 28px;
-  border-radius: 50%;
-  vertical-align: middle;
-  margin-right: 0.3em;
-  box-shadow: 0 0 0 1px #eee;
-}
-</style>
-
-<div id="github-issues-feed">Cargando asuntos...</div>
+<h2>Asuntos de Kajii Narumi</h2>
+<div id="github-issues-feed">Cargando notas...</div>
 <div id="github-pagination" style="margin-top:2em;"></div>
 <script>
 const repo = "KajiiNarumi/Blog";
-const perPage = 10;
+const perPage = 10; // Cambia este número si quieres más/menos notas por página
 let currentPage = 1;
 
 function escapeHtml(str) {
@@ -74,42 +23,25 @@ function escapeHtml(str) {
     .replace(/'/g, "&#039;");
 }
 
-function renderLabels(labels) {
-  return labels.map(label =>
-    `<span class="asunto-etiqueta" style="background:#f5f5f5;color:#666;">
-      ${escapeHtml(label.name)}
-    </span>`
-  ).join(' ');
-}
-
 function renderIssues(issues) {
   let html = "";
   if (issues.length === 0) {
-    html = "<p>No hay asuntos aún.</p>";
+    html = "<p>No hay notas aún.</p>";
   } else {
     issues.forEach(issue => {
-      const meta = issue.milestone ? escapeHtml(issue.milestone.title) : "Sin meta";
-      const estado = issue.state === "closed"
-        ? '<span class="asunto-estado-cerrado">Cerrado</span>'
-        : '<span class="asunto-estado-abierto">Abierto</span>';
-      const labels = renderLabels(issue.labels || []);
       html += `
-      <div class="asunto">
-        <div class="asunto-meta">
-          <span class="asunto-user">
-            <img src="${issue.user.avatar_url}" alt="${issue.user.login}">
-            ${escapeHtml(issue.user.login)}
-          </span>
-          &middot; <span>${new Date(issue.created_at).toLocaleString()}</span>
-          &middot; <span>Meta: <b>${meta}</b></span>
-          &middot; ${estado}
+      <div class="note-issue" style="border:1px solid #eee; padding:1em; margin-bottom:2em;">
+        <div>
+          <img src="${issue.user.avatar_url}" alt="${issue.user.login}" style="width:32px;border-radius:50%;vertical-align:middle;">
+          <strong>${escapeHtml(issue.user.login)}</strong>
+          <span style="color:#888;">${new Date(issue.created_at).toLocaleString()}</span>
         </div>
-        <div class="asunto-etiquetas">${labels}</div>
-        <div class="asunto-titulo">
-          <a href="${issue.html_url}" target="_blank">${escapeHtml(issue.title)}</a>
-        </div>
+        <h3 style="margin-top:0.5em;">${escapeHtml(issue.title)}</h3>
         <div>${issue.body ? escapeHtml(issue.body).replace(/\n/g,"<br>") : ""}</div>
-        <div class="asunto-comentarios" id="comments-${issue.number}">Cargando comentarios...</div>
+        <div style="margin-top:1em;">
+          <a href="${issue.html_url}" target="_blank">Comentar en GitHub</a>
+        </div>
+        <div class="issue-comments" id="comments-${issue.number}" style="margin-top:1em; font-size:0.9em; color:#444;">Cargando comentarios...</div>
       </div>
       `;
     });
@@ -131,17 +63,19 @@ function renderPagination(hasPrev, hasNext) {
 
 function loadIssues(page) {
   currentPage = page;
-  document.getElementById('github-issues-feed').innerHTML = "Cargando asuntos...";
+  document.getElementById('github-issues-feed').innerHTML = "Cargando notas...";
   fetch(`https://api.github.com/repos/${repo}/issues?state=open&per_page=${perPage}&page=${currentPage}`)
     .then(r => r.json())
     .then(issues => {
       renderIssues(issues);
+      // Verifica si hay más notas (para mostrar botón "Siguiente")
       fetch(`https://api.github.com/repos/${repo}/issues?state=open&per_page=${perPage}&page=${currentPage + 1}`)
         .then(r => r.json())
         .then(nextIssues => {
           renderPagination(currentPage > 1, nextIssues.length > 0);
         });
       issues.forEach(issue => {
+        // Obtiene los comentarios de cada Issue:
         fetch(`https://api.github.com/repos/${repo}/issues/${issue.number}/comments`)
           .then(r => r.json())
           .then(comments => {
@@ -167,6 +101,7 @@ function loadIssues(page) {
     });
 }
 
+// Inicializa la primera carga
 window.loadIssues = loadIssues;
 loadIssues(1);
 </script>
