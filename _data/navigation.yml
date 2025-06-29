@@ -2,14 +2,14 @@
 
 - title: Home
   url: /
-# - title: Posts
-#   url: /posts/
+- title: Posts
+  url: /posts/
 - title: Categories
   url: /categories/
 - title: Tags
   url: /tags/
-# - title: Recipes
-#   url: /recipes/
+- title: Notes
+  url: /notes/
 - title: Search
   url: /search/
 - title: Theme
