@@ -1,7 +1,7 @@
 ---
 layout: home
 description: "Blog de tutoriales y recursos prácticos que acompañan al canal de YouTube de Kajii Narumi. Aprende mejor con guías escritas."
-limit: 10
+limit: 15
 show_excerpts: true
 entries_layout: list
 ---
