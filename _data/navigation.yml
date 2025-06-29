@@ -1,17 +1,17 @@
 # Sample site navigation bar links
 
-- title: Home
+- title: Casa
   url: /
 # - title: Posts
 #  url: /posts/
-- title: Categories
-  url: /categories/
-- title: Tags
-  url: /tags/
 - title: Asuntos
   url: /asuntos/
-- title: Search
+- title: Categorías
+  url: /categories/
+- title: Etiquetas
+  url: /tags/
+- title: Buscar
   url: /search/
-- title: Theme
+- title: Tema
   url: "#"
   id: theme-toggle
