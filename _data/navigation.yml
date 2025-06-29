@@ -8,8 +8,8 @@
   url: /asuntos/
 - title: Categorías
   url: /categories/
-- title: Etiquetas
-  url: /tags/
+# - title: Etiquetas
+#   url: /tags/
 - title: Buscar
   url: /search/
 - title: Tema
