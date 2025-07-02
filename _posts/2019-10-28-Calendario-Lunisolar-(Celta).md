@@ -11,6 +11,7 @@ image:
   caption: "Calendario Nórdico"
 image_alt: "Tabla con marcas de un calendario antiguo"
 excerpt: "Lso calendarios lunisolares parecen complejas formas de medir el tiempo, te explico como entenderlo sin morir en el intento"
+permalink: /blog/calendario-lunisolar-celta/
 ---
 
 El calendario Juliano, tal y como lo conocemos hoy en día, tiene aproximadamente unos 500 años de existencia. Esto es un período relativamente corto en comparación con la historia de la humanidad. A lo largo de los siglos, diversas culturas han desarrollado sus propios sistemas para medir el tiempo. Un ejemplo destacado es el calendario Maya, conocido por su precisión. Sin embargo, en esta ocasión, nos enfocaremos en el calendario Celta, un sistema lunisolar que combina los ciclos del Sol y la Luna.
