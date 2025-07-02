@@ -2,7 +2,7 @@
 layout: post
 author:
   name: "I. Antoine Suárez V."
-categories: [Espiritualidad]
+categories: [Esoterismo]
 tags: [animal espiritual, guía, simbología, conexión]
 title: "Encuentra tu Animal Espiritual: Conectando con la Sabiduría de la Naturaleza"
 date: 2023-04-28
