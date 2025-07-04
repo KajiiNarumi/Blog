@@ -2,7 +2,7 @@
 layout: post
 author:
   name: "I. Antoine Suárez V."
-categories: [blog]
+categories: [Hogar]
 tags: [Tradición, Celtas, Estilo de Vida]
 title: "Calendario Lunisolar (Celta)"
 date: 2019-10-28
