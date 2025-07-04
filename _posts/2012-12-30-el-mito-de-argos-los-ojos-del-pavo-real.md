@@ -2,7 +2,7 @@
 layout: post
 author:
   name: "I. Antoine Suárez V."
-categories: [blog]
+categories: [Hogar]
 tags: [mitología, Grecia, leyendas]
 title: "El mito de Argos: los ojos del pavo real"
 date: 2012-12-30
