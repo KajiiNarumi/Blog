@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Codename: CURE. Reseña, Características y Requisitos"
+title: "Codename CURE Reseña Características y Requisitos"
 date: 2023-12-16
 author: I. Antoine Suárez V.
 categories: [Videojuegos]
