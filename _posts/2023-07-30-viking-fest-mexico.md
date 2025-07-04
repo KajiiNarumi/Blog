@@ -2,7 +2,7 @@
 layout: post
 author:
   name: "I. Antoine Suárez V."
-categories: [Eventos]
+categories: [Hogar]
 tags: [vikingos, cultura, historia, festival, México]
 title: "Sumérgete en la Época Vikinga con el Viking Fest: Una Celebración Épica de la Cultura Escandinava en México"
 date: 2023-07-30
