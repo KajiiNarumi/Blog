@@ -3,13 +3,16 @@
 
 I. Antoine Suárez V.:
   name: "I. Antoine Suárez V."
-  picture: /Blog/images/logo.png
   url: "https://iasuarezv.wordpress.com/"
 #  twitter: "@billyrick"
 #  links:
 #    - title: Twitter
 #      url: https://twitter.com/billyrick
 #      icon: fab fa-twitter-square
+
+Mick Arellano:
+  name: "Mick Arellano"
+  url: "https://linktr.ee/mickarellano"
 
 #Cornelius Fiddlebone:
 #  name: Cornelius Fiddlebone
