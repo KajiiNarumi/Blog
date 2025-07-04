@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Codename CURE Reseña Características y Requisitos"
+title: "Codename CURE Reseña, Características y Requisitos"
 date: 2023-12-16
 author: I. Antoine Suárez V.
 categories: [Videojuegos]
 tags: [fps, zombies, cooperativo, linux, steam]
 image:
-  path: /images/2023-12-16-codename-cure-resena-caracteristicas-y-requisitos.jpg
   alt: Portada del juego Codename: CURE con estilo sombrío de acción zombi
 excerpt: "Un FPS cooperativo gratuito de zombis con distintas clases de soldado, modos objetivo y supervivencia. Ideal para jugar con amigos, con dificultad personalizable y acción frenética. ¿Te atreves al modo demente?"
 ---
