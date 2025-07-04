@@ -16,6 +16,17 @@ layout: default
       </header>
 
       <div class="page-sidebar">
+
+{% assign author_id = page.author %}
+{% assign author = site.data.authors[author_id] %}
+{% if author %}
+  <span class="post-author">
+    <a href="{{ author.url }}" target="_blank" rel="author noopener">{{ author.name }}</a>
+  </span>
+{% elsif page.author.name %}
+  <span class="post-author">{{ page.author.name }}</span>
+{% endif %}
+        
         {% include page-author.html %}
         {% include read-time.html %}
         {% include page-categories.html %}
