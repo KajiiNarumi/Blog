@@ -2,7 +2,7 @@
 layout: post
 author:
   name: "I. Antoine Suárez V."
-categories: [tecnología]
+categories: [Tecnología]
 tags: [hardware, Linux, cibercafé, equipos, consejos]
 title: "Cómo Elegir o Armar Equipos para CiberLinux"
 date: 2018-03-28
