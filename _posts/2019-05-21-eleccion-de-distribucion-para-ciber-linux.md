@@ -2,7 +2,7 @@
 layout: post
 author:
   name: "I. Antoine Suárez V."
-categories: [tecnología]
+categories: [Tecnología]
 tags: [distribuciones, experiencia, GNU/Linux, ciber, Unity, Gnome, Ubuntu]
 title: "Elección de distribución para ciber Linux “Anécdota”"
 date: 2019-05-21
