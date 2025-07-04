@@ -118,6 +118,7 @@ footer_links:
     icon: fab fa-instagram
   - title: Steam
     url: https://store.steampowered.com/curator/42511696-Kajii-Narumi/
+    icon: fab fa-steam
   - title: Email
     url: mailto:contacto@kajiinarumi.com
     icon: fas fa-envelope
