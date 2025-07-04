@@ -2,7 +2,7 @@
 layout: post
 author:
   name: "I. Antoine Suárez V."
-categories: [Hogar, Mascotas]
+categories: [Hogar]
 tags: [gatos, uñas, cuidado de mascotas, tutorial]
 title: "Cómo cortar las uñas a tu gato guía paso a paso"
 date: 2020-04-20
