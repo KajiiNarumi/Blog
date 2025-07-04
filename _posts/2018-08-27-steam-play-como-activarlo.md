@@ -2,7 +2,7 @@
 layout: post
 author:
   name: "I. Antoine Suárez V."
-categories: [Tecnología]
+categories: [tecnología]
 tags: [videojuegos, GNU/Linux, Steam, Proton, compatibilidad]
 title: "Steam Play ¿Cómo Activarlo?"
 date: 2018-08-27
