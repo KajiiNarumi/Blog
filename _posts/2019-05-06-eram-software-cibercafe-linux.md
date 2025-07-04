@@ -20,7 +20,7 @@ Quiero aclarar que esta es una configuración que nos ha sido útil, pero pueden
 
 Nosotros nos hemos decidido usar Ubuntu lts en el servidor y saltamos entre versiones X.04 de Ubuntu, y contamos con 2 tipos de equipos, los Gamer y los normales.
 
-![Menú1](2019-05-06-eram-software-cibercafe-linux1.jpg)
+![Menú1](/images/2019-05-06-eram-software-cibercafe-linux1.jpg)
 
 Este es un script que desarrolle con el apoyo del grupo de [GNU/Linux](https://t.me/GNULinuxGrupo) en Telegram y salio por la necesidad de lograr controlar los equipos de forma remota, Empezó como un script para Encender, Reiniciar y Apagar los equipos de forma remota, pero fui agregando mas opciones que termine agregando la “M” de Mánager.
 
@@ -30,14 +30,14 @@ Lo pueden conseguir desde mi repositorio de [GitHub](https://github.com/KajiiNa
 
 **Contador, Consumidos y últimos:**
 
-![Menú2](2019-05-06-eram-software-cibercafe-linux2.jpg)
-![Menú3](2019-05-06-eram-software-cibercafe-linux3.jpg)
+![Menú2](/images/2019-05-06-eram-software-cibercafe-linux2.jpg)
+![Menú3](/images/2019-05-06-eram-software-cibercafe-linux3.jpg)
 
 Podremos bloquear el teclado y ratón de forma remota, así como elegir si queremos poner una imagen o serie de imágenes en la pantalla mientras esta en reposo, o en su defecto podemos elegir poner una serie de videos (sobre todo para hacer publicidad de servicios, ofertas, juegos, etc.) o cualquier cosa que nos interese mostrar mientras esta bloqueada.
 
 Estas opciones aun fase beta, con estas funciones trato de poder poner temporizador en caso que pidan cierto tiempo especifico (he pensado cambiar el nombre de contador a temporizador) este mandaría un mensaje tanto en el servidor como al cliente para notificar que el tiempo esta por agotarse y da la oportunidad de agregar tiempo extra.
 
-![Menú4](2019-05-06-eram-software-cibercafe-linux4.jpg)
+![Menú4](/images/2019-05-06-eram-software-cibercafe-linux4.jpg)
 
 Por otra parte el consumido muestra cuanto tiempo lleva consumido algún equipo para tener un conteo o una idea del importe recaudado hasta el momento mientras que últimos muestra cual fue el último cobro del equipo seleccionado.
 
