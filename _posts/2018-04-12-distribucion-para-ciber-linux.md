@@ -2,7 +2,7 @@
 layout: post
 author:
   name: "I. Antoine Suárez V."
-categories: [tecnología]
+categories: [Tecnología]
 tags: [Linux, distribuciones, cibercafé, Ubuntu, experiencia]
 title: "Distribución para Ciber Linux"
 date: 2018-04-12
