@@ -2,7 +2,7 @@
 layout: post
 author:
   name: "I. Antoine Suárez V."
-categories: [tecnología]
+categories: [Tecnología]
 tags: [Linux, tecnología, computadoras, reciclaje, software libre]
 title: "¿En serio Linux revive PCs viejas?"
 date: 2024-09-29
