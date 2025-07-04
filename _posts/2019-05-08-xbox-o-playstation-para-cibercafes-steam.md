@@ -43,13 +43,6 @@ En primer lugar crea 10 cuentas a las que llamaremos SCliente y crea 5 cuentas a
 
 A todas las cuentas tanto las SClientes como las SAdmin vamos a activar el modo familiar (código pin para restringir ciertas características de steam), en los SClientes es para que los usuarios no estén instalando juegos a lo loco. Y en la SAdmin es como medida de seguridad extra, La configuración que recomiendo es :
 
-[
-
-![](https://substackcdn.com/image/fetch/$s_!HNrw!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F07b251a2-88df-4066-8dff-019b09f8073a_200x177.png)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!HNrw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F07b251a2-88df-4066-8dff-019b09f8073a_200x177.png)
 
 ### SCLientes Configuración:
 
