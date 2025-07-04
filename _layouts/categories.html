@@ -47,7 +47,7 @@ layout: page
 {% assign category_counts = category_counts | split: "|" %}
 
 
-<ul class="taxonomy-index">
+<ul id="page-title" class="taxonomy-index">
   {% for category_names in category_names_array %}
     {% assign category_names_list = category_names | split: "," %}
     {% assign category_count = category_counts[forloop.index0] %}
@@ -75,7 +75,7 @@ layout: page
           </div>
         {% endif %}
       {% endfor %}
-      <a href="#" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+      <a href="#page-title" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
     </section>
   {% endfor %}
 {% endfor %}
