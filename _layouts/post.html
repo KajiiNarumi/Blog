@@ -17,14 +17,14 @@ layout: default
 
       <div class="page-sidebar">
 
-{% assign author_id = page.author %}
-{% assign author = site.data.authors[author_id] %}
+{% assign author_name = page.author.name %}
+{% assign author = site.data.authors | where: "name", author_name | first %}
 {% if author %}
   <span class="post-author">
     <a href="{{ author.url }}" target="_blank" rel="author noopener">{{ author.name }}</a>
   </span>
-{% elsif page.author.name %}
-  <span class="post-author">{{ page.author.name }}</span>
+{% else %}
+  <span class="post-author">{{ author_name }}</span>
 {% endif %}
         
         {% include page-author.html %}
