@@ -54,3 +54,31 @@ Ahora que ya sabes cómo funciona y para qué sirve, ¿Te animas a escribir un p
 ¡Creo que esto sería todo por hoy, recuerda, pórtate mal, cuídate bien, niégalo todo y finge demencia, nos vemos hasta la próxima, Chao!
 
 _Originally published at [https://codigokajiinarumi.blogspot.com](https://codigokajiinarumi.blogspot.com/2019/05/telegraph_29.html) on May 29, 2019._
+
+<form action="https://formsubmit.co/contacto@kajiinarumi.com" method="POST">
+  <!-- Desactiva CAPTCHA por defecto -->
+  <input type="hidden" name="_captcha" value="false">
+  <!-- Redirecciona tras enviar (opcional) -->
+  <input type="hidden" name="_next" value="https://blog.kajiinarumi.com/gracias/">
+  <!-- Campo antispam (honeypot) -->
+  <input type="text" name="_honey" style="display:none">
+
+  <label for="name">Nombre o seudónimo:</label><br>
+  <input type="text" name="name" id="name" required><br><br>
+
+  <label for="email">Correo:</label><br>
+  <input type="email" name="email" id="email" required><br><br>
+
+  <label for="service">Servicio:</label><br>
+  <select name="service" id="service" required>
+    <option value="Lectura oracular">Lectura oracular</option>
+    <option value="Soporte técnico">Soporte técnico</option>
+    <option value="Examen visual">Examen visual</option>
+    <option value="Conexión personal">Conexión personal</option>
+  </select><br><br>
+
+  <label for="message">Texto del correo:</label><br>
+  <textarea name="message" id="message" rows="5" required></textarea><br><br>
+
+  <button type="submit">Enviar</button>
+</form>
