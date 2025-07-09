@@ -34,4 +34,10 @@ No niego que sería agradable leer en el jacuzzi, pero es poco probable que sea 
 
 Por otro lado, es un dispositivo que hace exactamente lo que fue diseñado para hacer, y lo hace muy bien: permite llevar una biblioteca en el bolsillo y leer sin dañar la vista. Como optometrista, jamás recomiendo una tableta o un móvil para leer, debido al daño que estos dispositivos pueden causar a la vista; para eso están los lectores digitales con tinta electrónica.
 
+**Sabias que puedes cambiar la tipografia de la Amazon Kindle**
+{% include youtube.html id="exHzKGI9jEw" %}
+
+
+Puedes ver mi [lista de reprodución en YouTube](https://www.youtube.com/playlist?list=PLfyRETG_hY1B1d5wDjQTVmfSDOCzLDq8w)
+
 _Originally published at [http://iasuarezv.wordpress.com](https://iasuarezv.wordpress.com/2024/09/30/por-que-elegi-la-kindle-basic-entre-todas-las-opciones-que-hay/) on September 30, 2024._
