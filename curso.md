@@ -13,7 +13,6 @@ excerpt: ¿Qué nos hace mexicanos? Reflexiona con nosotras a través del arte y
 <style>
 .justificado { text-align: justify; }
 .bloque-curso {
-  background: #f9f9f9;
   padding: 1.5rem;
   border-radius: 1rem;
   margin-bottom: 2rem;
@@ -75,7 +74,7 @@ excerpt: ¿Qué nos hace mexicanos? Reflexiona con nosotras a través del arte y
   <p><strong>Imparte:</strong> Carla Valdespino Vargas</p>
 
   <div>
-    <a href="https://www.paypal.com/paypalme/tuenlace" class="boton">Pagar ahora</a>
+    <a href="https://www.paypal.com/paypalme/kajiinarumi" class="boton">Pagar ahora</a>
     <a href="https://wa.me/52XXXXXXXXXX" class="boton">Solicitar acceso por WhatsApp</a>
   </div>
 </div>
