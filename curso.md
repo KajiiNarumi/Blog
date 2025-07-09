@@ -6,7 +6,6 @@ author: Carla Valdespino Vargas
 permalink: /curso/
 categories: [Cursos]
 tags: [cultura, historia, México, identidad]
-image: /images/2025-07-08-identidad-cultura-mexicana.jpg
 image_alt: Fotografía decorativa de elementos culturales mexicanos
 excerpt: ¿Qué nos hace mexicanos? Reflexiona con nosotras a través del arte y la historia en este curso en vivo por Zoom.
 ---
