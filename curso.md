@@ -45,7 +45,7 @@ excerpt: ¿Qué nos hace mexicanos? Reflexiona con nosotras a través del arte y
 <div class="bloque-curso fade-in">
   <h2 class="fade-in">Curso: Identidad y cultura mexicana</h2>
   
-  <img src="https://images.unsplash.com/photo-1533000621329-4cba2b5a3a5e?auto=format&fit=crop&w=1200&q=80" alt="Decoración cultural mexicana" style="width:100%; border-radius: 1rem; margin: 1.5rem 0;" />
+  <img src="https://plus.unsplash.com/premium_photo-1675278299469-d6a1d77cf134?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Decoración cultural mexicana" style="width:100%; border-radius: 1rem; margin: 1.5rem 0;" />
 
   <section class="justificado">
     <p>
