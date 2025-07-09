@@ -3,6 +3,7 @@ layout: post
 title: "Curso: Identidad y cultura mexicana"
 date: 2025-07-08
 author: Carla Valdespino Vargas
+permalink: /curso/
 categories: [Cursos]
 tags: [cultura, historia, México, identidad]
 image: /images/2025-07-08-identidad-cultura-mexicana.jpg
