@@ -27,12 +27,10 @@ h2, h3 {
   text-align: justify;
   line-height: 1.7;
   font-size: 1.05rem;
-  color: #2d3748;
 }
 
 /* Contenedor elegante */
 .bloque-curso {
-  background: #ffffff;
   padding: 2rem;
   border-radius: 1rem;
   margin-bottom: 2rem;
