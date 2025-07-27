@@ -2,7 +2,7 @@
 layout: post
 author:
   name: "I. Antoine Suárez V."
-categories: [Tecnología]
+categories: [Tecnologia]
 tags: [GNU Linux, distribuciones, sabores, Linux, sistemas operativos, tutorial]
 title: "Ecosistema Linux"
 date: 2024-07-26
