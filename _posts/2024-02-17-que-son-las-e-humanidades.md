@@ -2,7 +2,7 @@
 layout: post
 author:
   name: "I. Antoine Suárez V."
-categories: [Tecnología]
+categories: [Tecnologia]
 tags: [e-humanidades, humanidades digitales, historia, herramientas digitales]
 title: "¿Qué son las E-Humanidades?"
 date: 2024-02-17
