@@ -2,7 +2,7 @@
 layout: post
 author:
   name: "I. Antoine Suárez V."
-categories: [Tecnología]
+categories: [Tecnologia]
 tags: [Ubuntu, instalación, tutorial, Linux, particiones, Windows, USB boot]
 title: "Lo Básico para Instalar Ubuntu y Sabores"
 date: 2024-06-10
