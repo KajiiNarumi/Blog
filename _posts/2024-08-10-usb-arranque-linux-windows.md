@@ -2,7 +2,7 @@
 layout: post
 author:
   name: "I. Antoine Suárez V."
-categories: [Tecnología]
+categories: [Tecnologia]
 tags: [Linux, USB arranque, Ventoy, Yumi, tutorial, instalación]
 title: "Cómo crear un USB de arranque para instalar Linux desde Windows"
 date: 2024-08-10
