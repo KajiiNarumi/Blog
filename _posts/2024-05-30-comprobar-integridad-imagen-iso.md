@@ -2,7 +2,7 @@
 layout: post
 author:
   name: "I. Antoine Suárez V."
-categories: [Tecnología]
+categories: [Tecnologia]
 tags: [ISO, checksum, seguridad, verificación, descargas seguras]
 title: "¿Comprobar la Integridad de una Imagen ISO?"
 date: 2024-05-30
