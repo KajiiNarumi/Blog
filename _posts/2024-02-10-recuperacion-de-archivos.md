@@ -2,7 +2,7 @@
 layout: post
 author:
   name: "I. Antoine Suárez V."
-categories: [Tecnología]
+categories: [Tecnologia]
 tags: [recuperación, archivos, minitool, formateo, almacenamiento]
 title: "Recuperación de Archivos Borrados: Probando Minitool PowerData Recovery"
 date: 2024-02-10
