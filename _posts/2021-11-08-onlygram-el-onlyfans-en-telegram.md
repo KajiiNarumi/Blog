@@ -2,7 +2,7 @@
 layout: post
 author:
   name: "I. Antoine Suárez V."
-categories: [Tecnología]
+categories: [Tecnologia]
 tags: [telegram, onlyfans, membresías, contenido digital, monetización]
 title: "OnlyGram el OnlyFans en Telegram"
 date: 2021-11-08
