@@ -2,7 +2,7 @@
 layout: post
 author:
   name: "Mick Arellano"
-categories: [Tecnología]
+categories: [Tecnologia]
 tags: [google classroom, educación digital, clases en línea, docentes, herramientas educativas]
 title: "Google Classroom para profesores"
 date: 2024-05-06
