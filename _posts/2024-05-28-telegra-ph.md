@@ -2,7 +2,7 @@
 layout: post
 author:
   name: "I. Antoine Suárez V."
-categories: [Tecnología]
+categories: [Tecnologia]
 tags: [telegram, telegra.ph, blogging, escritura digital, bots]
 title: "Telegra.ph"
 date: 2024-05-28
