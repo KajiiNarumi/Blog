@@ -2,7 +2,7 @@
 layout: post
 author:
   name: "I. Antoine Suárez V."
-categories: [Tecnología]
+categories: [Tecnologia]
 tags: [Linux, Ubuntu, cibercafé, software libre, mantenimiento]
 title: "¿Se puede montar un cibercafé con GNU / Linux?"
 date: 2018-03-27
