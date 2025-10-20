@@ -2,7 +2,7 @@
 layout: post
 author:
   name: "I. Antoine Suárez V."
-categories: [Tecnología]
+categories: [Tecnologia]
 tags: [entornos, escritorio, GTK, QT, GNU/Linux, comparativa]
 title: "Entornos de Escritorio"
 date: 2020-05-21
