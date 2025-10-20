@@ -2,7 +2,7 @@
 layout: post
 author:
   name: "I. Antoine Suárez V."
-categories: [Tecnología,Videojuegos]
+categories: [Tecnologia,Videojuegos]
 tags: [Steam, cibercafé, consolas, PC Gaming, configuración, licencias]
 title: "¿Xbox o Playstation para cibercafés? Mejor Steam"
 date: 2019-05-08
