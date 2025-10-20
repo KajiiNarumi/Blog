@@ -2,7 +2,7 @@
 layout: post
 author:
   name: "I. Antoine Suárez V."
-categories: [Tecnología]
+categories: [Tecnologia]
 tags: [Linux, ERAM, software libre, cibercafé, scripts, gestión remota]
 title: "ERAM software para cibercafé Linux"
 date: 2019-05-06
