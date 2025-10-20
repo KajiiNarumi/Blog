@@ -2,7 +2,7 @@
 layout: post
 author:
   name: "I. Antoine Suárez V."
-categories: [Tecnología,Videojuegos]
+categories: [Tecnologia,Videojuegos]
 tags: [steam, linux, proton, juegos, gaming, wine]
 title: "Videojuegos en Linux??"
 date: 2021-05-05
